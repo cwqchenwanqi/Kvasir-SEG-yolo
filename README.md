@@ -1,2 +1,2 @@
 # Kvasir-SEG-yolo
-polyp detection datasets
+polyp detection datasets in master
